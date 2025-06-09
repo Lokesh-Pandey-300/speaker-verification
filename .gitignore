@@ -5,3 +5,15 @@ english
 TEST
 favourite_language
 sorted
+*.pkl
+favourites
+output
+VOIP TEST
+*.zip
+*.txt
+MinDCF.py
+sensor_eer_eval.py
+labels_Script.py
+hello.py
+eer_sensor_plot.py
+DET_Curve.py
